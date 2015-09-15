@@ -1,0 +1,12 @@
+# Site settings
+title: От фундамента до крыши
+email: chel@yandex.ru
+description: "Выполняем все работы. Все все все. Дальше какой то текст."
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: odnoklasniki
+github_username:  vkontakte
+
+# Build settings
+markdown: kramdown
+permalink: pretty

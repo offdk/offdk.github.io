@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>От фундамента до крыши</title>
+    <description>Выполняем все работы. Все все все. Дальше какой то текст.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 15 Sep 2015 06:17:00 +0300</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2015 06:17:00 +0300</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Художества из дерева</title>
+        <description>&lt;p&gt;нет текстов&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Sep 2015 03:51:54 +0300</pubDate>
+        <link>http://yourdomain.com/services/greenhouses/</link>
+        <guid isPermaLink="true">http://yourdomain.com/services/greenhouses/</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
+    
+      <item>
+        <title>Окна</title>
+        <description>&lt;p&gt;Нашы мастера устанавлевают любые окна и способны врезать их в любую стену вне зависимости от этажа.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Sep 2015 03:51:54 +0300</pubDate>
+        <link>http://yourdomain.com/services/2015/09/15/windows/</link>
+        <guid isPermaLink="true">http://yourdomain.com/services/2015/09/15/windows/</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
+    
+      <item>
+        <title>Супер новость!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Sep 2015 03:51:54 +0300</pubDate>
+        <link>http://yourdomain.com/news/2015/09/15/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/news/2015/09/15/welcome-to-jekyll/</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Posts</title>
+        <description>&lt;p&gt;Posts
+Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Sep 2015 03:51:54 +0300</pubDate>
+        <link>http://yourdomain.com/posts/jekyll/update/2015/09/15/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/posts/jekyll/update/2015/09/15/welcome-to-jekyll/</guid>
+        
+        
+        <category>posts</category>
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Козырьки</title>
+        <description>&lt;p&gt;Вам надоели лужи на пороги? Надоело зимой выходить и наступать в сугроб? Набирайте наш номер и наш мастер прибудет к вам в назначеные сроки и установит лучший козырёк в городе.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Sep 2015 03:51:54 +0300</pubDate>
+        <link>http://yourdomain.com/services/2015/09/15/sunshade/</link>
+        <guid isPermaLink="true">http://yourdomain.com/services/2015/09/15/sunshade/</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
+    
+      <item>
+        <title>Крыши</title>
+        <description>&lt;p&gt;Если ваш старый шифер накрыше покрылся мхом? Или у вас канчаются тазики во время дождя? И вы не знаете что делать? Позвоните нам! И мы в наикратчайший срок исправим все погрешности на вашей крыше! Можем накрыть вашу крышу любым материалом, как шифером, так и проф-настилом, черепицей илиже мягкой кровлей.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Sep 2015 03:51:54 +0300</pubDate>
+        <link>http://yourdomain.com/services/2015/09/15/roof/</link>
+        <guid isPermaLink="true">http://yourdomain.com/services/2015/09/15/roof/</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
+    
+      <item>
+        <title>Брусчатка</title>
+        <description>&lt;p&gt;нет текстов&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Sep 2015 03:51:54 +0300</pubDate>
+        <link>http://yourdomain.com/services/2015/09/15/paving-stone/</link>
+        <guid isPermaLink="true">http://yourdomain.com/services/2015/09/15/paving-stone/</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
+    
+      <item>
+        <title>Монтаж/Демонтаж беседок</title>
+        <description>&lt;p&gt;Монтаж и демонтаж промышленного оборудования и металлоконструкций по всей России.&lt;/p&gt;
+
+&lt;p&gt;Наша компания предлагает свои услуги в Центрально-Черноземном регионе и других областях. Для вас будут произведены различные монтажные и пусконаладочные работы. Мы также готовы предоставить свои услуги и в Восточной Азии.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Sep 2015 03:51:54 +0300</pubDate>
+        <link>http://yourdomain.com/services/2015/09/15/pavilion/</link>
+        <guid isPermaLink="true">http://yourdomain.com/services/2015/09/15/pavilion/</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
+    
+      <item>
+        <title>Художественная ковка</title>
+        <description>&lt;p&gt;нет текстов&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Sep 2015 03:51:54 +0300</pubDate>
+        <link>http://yourdomain.com/services/greenhouses/</link>
+        <guid isPermaLink="true">http://yourdomain.com/services/greenhouses/</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
+    
+      <item>
+        <title>Кладка камня</title>
+        <description>&lt;p&gt;Наши специалисты (каменщики) справляются с успехом с любыми поставленными задачами заказчиком. Необходима аккуратная лицевая кладка с выверенными швами – пожалуйста. Требуются специалисты, способные выполнять работы с фактурным дорогим импортным кирпичом с применением колеровочных смесей в растворе, и тут мы справимся. Замысловатый ажурный рисунок фасада также нам под силу. Комбинация лицевого кирпича с элементами штукатурки, облицовочным материалом, натуральным камнем также понятна.&lt;/p&gt;
+
+&lt;p&gt;Словом, мы готовы реализовать все Ваши замыслы!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Кирпичная кладка любой степени сложности.&lt;/li&gt;
+  &lt;li&gt;Кирпичная кладка клинкером с применением колеровочных смесей.&lt;/li&gt;
+  &lt;li&gt;Кладка на «теплом» растворе.&lt;/li&gt;
+  &lt;li&gt;Кладка фактурного, точеного кирпича отечественных и зарубежных производителей.&lt;/li&gt;
+  &lt;li&gt;Композиционные планы из кирпича: арки, портики, колонны, барельефы, декоративные элементы.&lt;/li&gt;
+  &lt;li&gt;Возможность комбинации: кирпич – натуральный камень.&lt;/li&gt;
+  &lt;li&gt;Барельефы из натурального камня, а также: заборы, гаражи, хозблоки, зоны отдыха (печи, барбекю и т.д.).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 15 Sep 2015 03:51:54 +0300</pubDate>
+        <link>http://yourdomain.com/services/2015/09/15/masonry/</link>
+        <guid isPermaLink="true">http://yourdomain.com/services/2015/09/15/masonry/</guid>
+        
+        
+        <category>services</category>
+        
+      </item>
+    
+  </channel>
+</rss>
