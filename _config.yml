@@ -6,7 +6,15 @@ baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: odnoklasniki
 github_username:  vkontakte
+comments: true
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+
+
+sass:
+    sass_dir: css
+    style: compressed
