@@ -4,17 +4,22 @@ layout: default
 
 <div class="home">
 
+  <h1>Почему стоит выбрать нас</h1>
+    <p>Много текста о том какие мы хорошие</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam animi debitis delectus dolore, ducimus hic iusto laboriosam laudantium, non nostrum pariatur quia veritatis. Asperiores culpa iure molestiae quis tempore. Lorem ipsum dolor sit amet, consectetur adipisicing elit. A cum facilis harum quo quod? Accusantium aliquid at autem culpa earum explicabo facilis illum ipsum nemo odit, quo sunt, tempore voluptatum!</p>
+
   <h1>Наши работы</h1>
 
-  <ul class="postz">
+  <div class="postz">
     {% for post in site.categories['works'] %}
-    <li>
-        <img src="{{ post.thumbnail | prepend: site.baseurl }}">
+    <div>
+        <a class="group1" href="{{ post.full | prepend: site.baseurl }}">
+            <img src="{{ post.thumbnail | prepend: site.baseurl }}">
+        </a>
         <a href="{{ post.url | prepend: site.baseurl }}">
           {{ post.title }}
         </a>
-    </li>
+    </div>
     {% endfor %}
-  </ul>
+  </div>
 </div>
-2015

@@ -1,6 +1,6 @@
 ---
 layout: services
-comments: false
+comments: true
 title:  "Земляные работы"
 date:   2015-09-15 00:51:54
 categories: services

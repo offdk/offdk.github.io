@@ -12,7 +12,7 @@
 
 	<link rel="stylesheet" href="{{ "/css/flexboxgrid.min.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-
+	<link rel="stylesheet" href="{{ "/css/colorbox.css" | prepend: site.baseurl }}">
 </head>
 <body>
 	<header class="header">
@@ -48,15 +48,12 @@
 	</section>
 
 
-
-
-
 	<footer class="footer">
 		<div class="footer__inner">
 			<div class="wrapper">
 				<div class="row">
 					<div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
-						<h4>{{ site.title }}</h4>
+						<h4>Свяжитесь с нами</h4>
 						<p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
 						<p><a href="tel:{{ site.email }}">8 (800) 858-38-56</a></p>
 					</div>
@@ -82,7 +79,16 @@
 			</div>
 		</div>
 	</footer>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-  </body>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="http://www.jacklmoore.com/colorbox/jquery.colorbox.js"></script>
+	<script>
+		$(document).ready(function(){
+			//Examples of how to assign the Colorbox event to elements
+			$(".group1").colorbox({
+				width: '60%',
+				rel:'group1'});
+		});
+	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+	</body>
 </html>

@@ -1,0 +1,139 @@
+---
+---
+
+@import "normalize"
+
+body
+  background: white
+  font-size: 16px
+  line-height: 1.7
+
+a
+  text-decoration: none
+  &:hover
+    text-decoration: underline
+
+.header
+
+
+.content
+
+
+.footer
+  & .text
+
+
+
+
+
+
+
+
+
+.header
+  background: black
+  color: white
+  &:after
+    content: "."
+    width: 100%
+    position: absolute
+    transform: skewY(-.9deg)
+    height: 100px
+    top: 10px
+    z-index: -1
+    background-color: black
+
+
+.logo img
+  width: 190px
+  padding: 1.6em 0 0
+  display: block
+
+.navigation
+  margin-left: auto
+
+.navigation ul
+  padding: 0
+  margin: 0
+  display: flex
+  list-style: none
+
+.navigation li
+  flex-grow: 1
+
+.navigation a
+  display: block
+  color: white
+  font-size: .95rem
+  padding: 2.6em .77em 2.3em
+  text-transform: uppercase
+
+
+.navigation li:last-of-type a
+  padding-right: 0
+
+
+.navigation a:hover
+  color: gold
+  text-decoration: line-through
+
+/* media queries */
+/* ----------------------------------------------------------*/
+
+
+
+
+
+
+
+
+.post-content img
+  max-width: 200px
+  max-height: 200px
+
+
+
+
+.postz li
+  list-style: none
+  width: 25%
+  float: left
+
+.postz li img
+  width: 100%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wrapper
+  box-sizing: border-box
+  max-width: 980px
+  margin: 0 auto
+
+.footer
+  background: lightgray
+  padding-top: 2em
+  padding-bottom: 2em
